@@ -10,6 +10,6 @@ Working on this project helped me understand how raw data can be transformed int
 
 💡 This project strengthened my foundation in data preprocessing and feature engineering, which are crucial steps in any data analysis or machine learning workflow.
 
-📄 Check out the full project in the attached document below!
+📄 Check out the full project in the attached document below! https://github.com/kkumar2804/EDA-Titanic-Test-Dataset/tree/main
 
 #DataAnalysis #Python #JupyterNotebook #DataCleaning #FeatureEngineering #EDA #Learning #Projects
